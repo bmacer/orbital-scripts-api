@@ -1,0 +1,11 @@
+{
+  "cidr": "netmask:10.0.0.0/24",
+  "expiryinminutes": "60",
+  "name": "sample livescript name",
+  "nodes": ["string"],
+  "nodeversions": ["string"],
+  "os": ["string"],
+  "requestdurationsec": "5",
+  "args": ["string"],
+  "stock": "org:104"
+}

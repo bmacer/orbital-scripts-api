@@ -1,0 +1,26 @@
+{
+  "description": "[Changed] Example Orbital Script Using API, will print first and last name of arguments, and print the files in the current directory.",
+  "platform": ["darwin", "windows"],
+  "script": {
+    "args": [
+      {
+        "description": "first name",
+        "name": "first_name",
+        "optional": true,
+        "value": "DEFAULT_FIRST"
+      },
+      {
+        "description": "last name",
+        "name": "last_name",
+        "optional": true,
+        "value": "DEFAULT_LAST"
+      }
+    ],
+    "content": "IyBleGFtcGxlLnB5CmltcG9ydCBvcwpwcmludCgnSGVsbG8ge3sgLmZpcnN0X25hbWUgfX0ge3sgLmxhc3RfbmFtZSB9fScpCnByaW50KGYiVGhlIGZpbGVzIGluIHtvcy5nZXRjd2QoKX0gYXJlOiB7b3MubGlzdGRpcigpfSIp",
+    "label": "string",
+    "name": "Print first and last name script3",
+    "timeout": 30
+  },
+  "title": "Example Orbital Script Using the API23",
+  "version": "1.20"
+}

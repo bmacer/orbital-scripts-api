@@ -1,0 +1,10 @@
+{
+  "creator": "string",
+  "expiry": 1696730948,
+  "interval": 0,
+  "name": "sample script name",
+  "nodes": ["string"],
+  "nodeversions": ["string"],
+  "os": ["windows"],
+  "stock": "org:105"
+}

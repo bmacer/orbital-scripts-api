@@ -1,0 +1,13 @@
+{
+  "description": "Example Orbital Script Using API, will print first and last name of arguments, and print the files in the current directory.",
+  "id": "105",
+  "platform": ["darwin", "windows"],
+  "script": {
+    "content": "IyBleGFtcGxlLXNjcmlwdC1uby1hcmdzLnB5CmltcG9ydCBvcwpwcmludChmIlRoZSBmaWxlcyBpbiB7b3MuZ2V0Y3dkKCl9IGFyZToge29zLmxpc3RkaXIoKX0iKSA=",
+    "label": "string",
+    "name": "Print OS info no args",
+    "timeout": 30
+  },
+  "title": "Example Orbital Script Without Arguments",
+  "version": "1.20"
+}
